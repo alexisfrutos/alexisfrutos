@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I'm here trying to code in GitHub. I don't have any idea what I do 😄
 <!--
 **alexisfrutos/alexisfrutos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
